@@ -1,0 +1,300 @@
+Which language is used for Android app development?
+Java
+Python
+C++
+Ruby
+1
+Which of these is a Java keyword?
+define
+main
+class
+get
+3
+What does HTML stand for?
+Hyperlinks and Text Markup Language
+Home Tool Markup Language
+Hyper Text Markup Language
+Hyperlinking Text Mark Language
+3
+Which company developed Java?
+Microsoft
+Apple
+Sun Microsystems
+Google
+3
+Which data structure uses LIFO?
+Queue
+Stack
+Array
+Linked List
+2
+Which of the following is not a loop in Java?
+for
+do-while
+foreach
+repeat
+4
+Which collection class stores unique elements?
+ArrayList
+HashSet
+TreeMap
+Queue
+2
+Which sorting algorithm has best case O(n)?
+Bubble Sort
+Quick Sort
+Merge Sort
+Insertion Sort
+4
+Which keyword is used to inherit a class in Java?
+implement
+extends
+inherits
+include
+2
+Which exception is thrown when dividing by zero in Java?
+NullPointerException
+ArithmeticException
+IOException
+NumberFormatException
+2
+What is the default value of boolean in Java?
+true
+false
+null
+0
+2
+Which of the following is a compiled language?
+Java
+Python
+HTML
+CSS
+1
+Which method is used to start a thread in Java?
+begin()
+start()
+init()
+run()
+2
+What is JVM in Java?
+Java Virtual Machine
+Java Version Manager
+Just Virtual Machine
+Java Variable Module
+1
+Which operator is used for logical AND in Java?
+&
+&&
+and
+||
+2
+Which class is the parent of all Java classes?
+String
+Object
+System
+Main
+2
+Which keyword is used to create a subclass?
+new
+class
+super
+extends
+4
+Which class is used for creating dialog boxes in Swing?
+JDialog
+JPanel
+JTextField
+JOptionPane
+4
+Which access modifier makes a member accessible to all?
+private
+protected
+public
+static
+3
+Which file extension is used for Java bytecode?
+.java
+.class
+.exe
+.byte
+2
+Which method is called when an object is created?
+main()
+init()
+start()
+constructor
+4
+Which method is used to get the length of a string?
+size()
+length()
+getLength()
+count()
+2
+Which statement is used to stop a loop?
+stop
+break
+exit
+halt
+2
+What is the size of int in Java?
+4 bytes
+2 bytes
+1 byte
+8 bytes
+1
+Which package contains Scanner class?
+java.io
+java.util
+java.lang
+java.awt
+2
+Which of these is not a primitive type?
+int
+float
+String
+char
+3
+Which keyword is used to handle exceptions?
+catch
+try
+handle
+raise
+1
+What is the full form of IDE?
+Integrated Data Environment
+Integrated Development Environment
+Internal Design Editor
+Internet Data Extension
+2
+Which loop is guaranteed to execute at least once?
+for
+while
+do-while
+none
+3
+Which layout is default in JFrame?
+GridLayout
+BorderLayout
+FlowLayout
+None
+2
+Which method sets window visibility in Swing?
+setVisible()
+show()
+display()
+view()
+1
+Which class is used to draw graphics in Java?
+Canvas
+Graphics
+Draw
+Painter
+2
+Which interface is used to handle events?
+Runnable
+ActionListener
+Comparator
+Closeable
+2
+What is the default layout of JPanel?
+BorderLayout
+GridLayout
+FlowLayout
+NullLayout
+3
+Which file contains the Java source code?
+.java
+.class
+.exe
+.txt
+1
+Which keyword stops method overriding?
+final
+private
+static
+void
+1
+Which memory is used to store objects in Java?
+Stack
+Heap
+RAM
+Register
+2
+Which loop is entry-controlled?
+for
+do-while
+both
+none
+1
+What is the return type of constructor?
+int
+void
+object
+none
+4
+Which of these is a Java IDE?
+PyCharm
+VS Code
+IntelliJ IDEA
+Sublime
+3
+Which keyword is used for interfaces?
+interface
+Interface
+implements
+inherit
+1
+Which tool compiles Java code?
+java
+javac
+jvm
+jar
+2
+Which component can hold other components?
+JLabel
+JButton
+JPanel
+JTextField
+3
+Which is not a valid Java variable name?
+$sum
+_sum
+1sum
+sum1
+3
+Which method is used to close a file in Java?
+closeFile()
+terminate()
+close()
+exit()
+3
+Which is used for formatted output in Java?
+System.print
+System.out.println
+System.out.printf
+System.printf
+3
+Which keyword is used to define constants?
+static
+const
+final
+define
+3
+Which keyword is used to call parent class constructor?
+base
+super
+parent
+this
+2
+Which of the following is not OOP concept?
+Inheritance
+Encapsulation
+Compilation
+Polymorphism
+3
+Which method is used to compare strings in Java?
+== 
+equals()
+compareTo()
+match()
+2
